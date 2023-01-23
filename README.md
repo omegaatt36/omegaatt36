@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Codewars](https://www.codewars.com/users/omegaatt36/badges/small)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-770%20hrs%2053%20mins-blue)
 
