@@ -3,7 +3,7 @@
 ![Codewars](https://www.codewars.com/users/omegaatt36/badges/small)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-984%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-988%20hrs%2028%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -65,7 +65,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/03/2023 00:59:42 UTC
+ Last Updated on 26/03/2023 01:06:50 UTC
 <!--END_SECTION:waka-->
 
 <!--
