@@ -3,7 +3,7 @@
 ![Codewars](https://www.codewars.com/users/omegaatt36/badges/small)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C178%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C181%20hrs%2012%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -65,7 +65,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2023 00:58:42 UTC
+ Last Updated on 21/05/2023 01:04:56 UTC
 <!--END_SECTION:waka-->
 
 <!--
