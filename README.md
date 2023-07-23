@@ -3,7 +3,7 @@
 ![Codewars](https://www.codewars.com/users/omegaatt36/badges/small)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C330%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C338%20hrs%2027%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -67,7 +67,7 @@ Mustache                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2023 01:06:44 UTC
+ Last Updated on 23/07/2023 01:11:34 UTC
 <!--END_SECTION:waka-->
 
 <!--
