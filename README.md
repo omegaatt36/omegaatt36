@@ -3,7 +3,7 @@
 ![Codewars](https://www.codewars.com/users/omegaatt36/badges/small)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C049%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C054%20hrs%206%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -66,7 +66,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2023 00:16:40 UTC
+ Last Updated on 17/12/2023 00:18:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
