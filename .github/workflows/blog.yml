@@ -1,0 +1,17 @@
+name: Sync blog to README
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Once every Sunday
+    - cron: 0 0 * * 0
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: https://www.omegaatt.com/index.xml
+          gh_token: ${{ secrets.GH_TOKEN }}

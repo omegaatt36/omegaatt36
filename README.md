@@ -1,7 +1,18 @@
-### Hi there 👋
+<!-- ![Codewars](https://www.codewars.com/users/omegaatt36/badges/small) -->
+<h2 align="center">👋 Hello! I'm Raiven.</h2>
+<p align="center">
+  <a href="https://www.omegaatt.com">Blog</a> •
+  <a href="https://link.omegaatt.com">Links</a>
+</p>
 
-![Codewars](https://www.codewars.com/users/omegaatt36/badges/small)
+- 🔭 I’m currently working at [Trend Micro](https://www.trendmicro.com)
+- 💬 Ask me about **Go, Homelab, Self-hosted**
 
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### Coding time at last 6 months:
 <!--START_SECTION:waka-->
 
 ```txt
@@ -13,18 +24,3 @@ YAML           22 mins         ▒░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-<!--
-**omegaatt36/omegaatt36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
