@@ -1,9 +1,6 @@
 <!-- ![Codewars](https://www.codewars.com/users/omegaatt36/badges/small) -->
-<h2 align="center">👋 Hello! I'm Raiven.</h2>
-<p align="center">
-  <a href="https://www.omegaatt.com">Blog</a> •
-  <a href="https://link.omegaatt.com">Links</a>
-</p>
+### 👋 Hello! I'm Raiven.
+[Blog](https://www.omegaatt.com) • [Links](https://link.omegaatt.com)
 
 - 🔭 I’m currently working at [Trend Micro](https://www.trendmicro.com)
 - 💬 Ask me about **Go, Homelab, Self-hosted**
