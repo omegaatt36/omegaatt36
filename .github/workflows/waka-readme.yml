@@ -16,3 +16,5 @@ jobs:
           SHOW_PROFILE_VIEWS: False
           SHOW_LOC_CHART: False
           SHOW_PROJECTS: False
+          TIME_RANGE: last_7_days
+          IGNORED_LANGUAGES: sh

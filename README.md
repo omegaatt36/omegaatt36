@@ -14,7 +14,7 @@
 - [在習慣 go mod 後重新學習 git submodule](https://www.omegaatt.com/blogs/develop/2025/git_submodule_turorial/)
 <!-- BLOG-POST-LIST:END -->
 
-### Coding time at last 6 months:
+### Coding time at last 7 Days:
 <!--START_SECTION:waka-->
 
 ```txt
