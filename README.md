@@ -7,11 +7,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [如何利用 Golang AST 助攻 LLM 省 token 又高效](https://www.omegaatt.com/blogs/develop/2025/golang_ast_llm_coding/)
+- [一次核心模組的重構經驗](https://www.omegaatt.com/blogs/develop/2025/experience_of_refine_core_module/)
 - [Golang Iterator 簡介與 samber/lo 比較](https://www.omegaatt.com/blogs/develop/2025/golang_iterator/)
 - [告別 Docker Desktop 束縛！macOS 容器實戰：colima + k8s + containerd 踩坑遷移全記錄](https://www.omegaatt.com/blogs/develop/2025/colima_docker_alternative_on_macos/)
 - [建構多平台的 container image](https://www.omegaatt.com/blogs/develop/2025/building_multiple_platform_container_image/)
-- [Never Install Locally？試試 Dev Container](https://www.omegaatt.com/blogs/develop/2025/dev_container/)
-- [使用 go work 在本地開發解決同時開發 module 的問題](https://www.omegaatt.com/blogs/develop/2025/go_module_and_go_work/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Coding time at last 7 Days:
