@@ -18,10 +18,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-terraform        2 hrs 24 mins   █████░░░░░░░░░░░░░░░░░░░░   19.53 %
-Terraform        1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
-Markdown         1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
-Docker           14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+terraform        2 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.92 %
+Terraform        1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+Markdown         1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+make             22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
