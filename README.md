@@ -18,10 +18,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-terraform        3 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-Markdown         1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-Terraform        1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-HCL              52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+terraform        4 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
+Markdown         2 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+Terraform        1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+HCL              1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
