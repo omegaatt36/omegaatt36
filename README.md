@@ -7,11 +7,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [從 GrapheneOS 回歸原廠：Google Pixel 5 刷機紀錄](https://www.omegaatt.com/blogs/develop/2026/recovery_pixel_to_factory_firmware/)
 - [2025 Recap](https://www.omegaatt.com/blogs/develop/2025/2025_recap/)
 - [Helm Smart Resource：讓你的 Chart 學會與既有資源和平共處](https://www.omegaatt.com/blogs/develop/2025/helm_smart_resource/)
 - [Interface 不是有開就好：從一個 PR 來看抽象化的重要性](https://www.omegaatt.com/blogs/develop/2025/interface-is-not-just-about-creating-one/)
 - [監控你的執行檔：初探 watchexec](https://www.omegaatt.com/blogs/develop/2025/watch_your_exec_watchexec/)
-- [用 Golang Bubbletea 打造終端機應用：從 Hello World 到多頁面架構](https://www.omegaatt.com/blogs/develop/2025/golang_bubbletea_experience/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Coding time at last 7 Days:
