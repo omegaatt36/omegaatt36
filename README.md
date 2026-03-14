@@ -18,7 +18,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other          2 hrs                 ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+Markdown       1 hr 53 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+Rust           1 hr 31 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+shell script   57 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
 ```
 
 <!--END_SECTION:waka-->
