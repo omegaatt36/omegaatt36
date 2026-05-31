@@ -18,11 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown       37 mins               ███████░░░░░░░░░░░░░░░░░░   27.99 %
-YAML           35 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.57 %
-Docker         25 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
-Bash           9 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-HCL            7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
