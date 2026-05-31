@@ -7,11 +7,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Go 1.27 即將支援 Generic Method：告別 package-level 函式的 workaround](https://www.omegaatt.com/blogs/develop/2026/golang_generic_method/)
+- [把 k3s 從 Ubuntu 搬到 OpenSUSE MicroOS，順便換上 FluxCD GitOps](https://www.omegaatt.com/blogs/develop/2026/migrate_k3s_lab_from_ubuntu_to_opensuse_micro_os/)
 - [Pragmatic Clean Architecture in Go](https://www.omegaatt.com/blogs/develop/2026/pragmatic_clean_architecture_in_go/)
 - [k3s Ingress Controller 從 Nginx 遷移到 Traefik 同時整合 CrowdSec](https://www.omegaatt.com/blogs/develop/2026/migrate_ingress_controller_from_nginx_to_traefik/)
 - [用 Hetzner + Proxmox Backup Server 實踐 3-2-1 備份原則的異地備援](https://www.omegaatt.com/blogs/develop/2026/proxmox_backup_server_on_hetzner/)
-- [放棄 Electron 與 Tauri? 我用 Wails + HTMX 打造 3MB 的跨平台桌面應用](https://www.omegaatt.com/blogs/develop/2026/golang_desktop_application_with_wails_and_htmx/)
-- [旅遊札記 - 2026 新年的關西遊](https://www.omegaatt.com/blogs/develop/2026/travel_kansai_kyoto_and_osaka/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Coding time at last 7 Days:
