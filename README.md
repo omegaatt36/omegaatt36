@@ -7,9 +7,9 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [連 RSS 聚合都懶的看了，請直接塞到我臉上](https://www.omegaatt.com/blogs/develop/2026/karakeep_tg_bot/)
 - [從 Wolfi 到 SBOM：容器漏洞修補的實作與踩坑](https://www.omegaatt.com/blogs/develop/2026/wolfi_zero_cve_sbom_pipeline/)
 - [Unrounded Scaling：Go 1.27 浮點數轉換演算法的深度拆解](https://www.omegaatt.com/blogs/develop/2026/golang_unrounded_scaling/)
 - [Spec-First API：用 codegen 約束 LLM 與人類的 drift](https://www.omegaatt.com/blogs/develop/2026/spec_first_api_against_drift/)
 - [Golang 1.27 新特性整理：泛型補完與轉正的實驗性功能](https://www.omegaatt.com/blogs/develop/2026/golang_1_27_new_features/)
-- [Go 1.27 即將支援 Generic Method：告別 package-level 函式的 workaround](https://www.omegaatt.com/blogs/develop/2026/golang_generic_method/)
 <!-- BLOG-POST-LIST:END -->
